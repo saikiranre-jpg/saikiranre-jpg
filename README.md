@@ -9,6 +9,15 @@ complex needs (physical, emotional, nutritional, financial) and the inability of
 family members to understand these needs lead to them regarding the elderly individuals as
 a burden. Elders suffering from cognitive challenges undergo serious personality changes;
 at this point, they need care and attention.
+
   In this project we have developed an elderly care app for elders in case of emergencies. Our app consists
 of one SOS button,one contacts button and one default text which is editable. SOS button helps them
 during any kind of emergencies
+
+
+Inventory Management System using Files and Json:
+In this project I have managed my inventory using files and json,product details are store in files and
+json such that whenever customer comes and ask for a particular product I will search that product
+in this files and json ,if it is available then I am going to sell that product to him.To deveolop this
+application I have used python language and jupyter notebook IDE
+
